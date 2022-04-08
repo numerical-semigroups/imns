@@ -1,4 +1,6 @@
-# International meetings on numerical semigroups (and applications)
+# International meetings on numerical semigroups 
+
+## Applications and related topics
 
 These meetings started with a series of Iberian meetings
 
